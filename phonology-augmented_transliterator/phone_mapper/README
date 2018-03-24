@@ -1,0 +1,13 @@
+- Use CMU T2P to split convert the split syllables into phonemes
+  + The difference when using T2P on the whole word and on individual syllables
+  > HE
+  HH IY
+  > RE
+  R EY
+  > DI
+	D IY
+	> A
+	AX
+	> HEREDIA
+	HH _ AXR _ DX IY AX
+

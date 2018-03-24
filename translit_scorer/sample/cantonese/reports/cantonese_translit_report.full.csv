@@ -1,0 +1,60 @@
+1, b, aa, k, 3, , s, i, 6
+ , b, *, ui, 3, , s, ai, 1
+ ,  , D (N), S (C),  , ,  , S (N), S (T)
+2, k, aa, 1, , l, aai, 1, , j, oe, ng, 4
+ , g, aa, 1, , l, aai, 1, , g, oe, ng, 1
+ , S (O),  ,  , ,  ,  ,  , , S (O),  ,  , S (T)
+3, j, e, 4, , s, ou, 1
+ , g, i, 1, , s, ou, 3
+ , S (O), S (N), S (T), ,  ,  , S (T)
+4, n, ei, 4, , w, ai, 4, , d, a, k, 6
+ , n, ui, 3, , *, *, *, , *, f, e, 1
+ ,  , S (N), S (T), , D (O), D (N), D (T), , D (O), S (N), S (C), S (T)
+5, t, i, n, 4, , n, aa, p, 6, , s, ai, 1
+ , d, a, n, 1, , n, ei, k, 4, , s, i, 1
+ , S (O), S (N),  , S (T), ,  , S (N), S (C), S (T), ,  , S (N),  
+6, s, aa, t, 3, , l, ei, 5
+ , s, *, e, 1, , l, aa, 6
+ ,  , D (N), S (C), S (T), ,  , S (N), S (T)
+7, j, i, ng, 1, , g, a, t, 1, , *, *, *, , l, ei, 6
+ , *, a, n, 1, , g, a, k, 1, , l, ei, 6, , t, a, 1
+ , D (O), S (N), S (C),  , ,  ,  , S (C),  , , I (O), I (N), I (T), , S (O), S (N), S (T)
+8, j, a, n, 3, , d, ai, 6, , o, n, 1
+ , *, i, n, 3, , d, a, 1, , o, n, 1
+ , D (O), S (N),  ,  , ,  , S (N), S (T), ,  ,  ,  
+9, o, n, 1, , d, aai, 6, , *, *, *, , l, oe, k, 6
+ , aa, n, 4, , d, aai, 6, , n, ei, 4, , *, *, aa, 3
+ , S (N),  , S (T), ,  ,  ,  , , I (O), I (N), I (T), , D (O), D (N), S (C), S (T)
+10, b, aa, 1, , h, aa, 1, , m, aa, 5
+ , b, aa, 1, , h, oi, 2, , m, aa, 5
+ ,  ,  ,  , ,  , S (N), S (T), ,  ,  ,  
+11, m, aa, ng, 6, , g, aa, 1, , l, aai, 1
+ , *, *, *, *, , b, a, 1, , g, aa, 1
+ , D (O), D (N), D (C), D (T), , S (O), S (N),  , , S (O), S (N),  
+12, m, aa, 5, , l, ei, 6
+ , m, aa, 5, , l, ei, 6
+ ,  ,  ,  , ,  ,  ,  
+13, h, a, k, 1, , l, ei, 5, , s, i, 1, , t, o, k, 3, , f, a, t, 1
+ , *, *, *, *, , k, ei, 4, , s, i, 1, , *, d, aa, 1, , h, a, k, 1
+ , D (O), D (N), D (C), D (T), , S (O),  , S (T), ,  ,  ,  , , D (O), S (N), S (C), S (T), , S (O),  , S (C),  
+14, o, 1, , m, aa, n, 6
+ , aa, 3, , m, aa, n, 6
+ , S (N), S (T), ,  ,  ,  ,  
+15, l, o, 4, , b, aa, k, 3, , d, a, k, 6
+ , l, o, 4, , *, *, *, *, , *, b, ui, 3
+ ,  ,  ,  , , D (O), D (N), D (C), D (T), , D (O), S (N), S (C), S (T)
+16, j, i, 5, , t, aai, 3
+ , *, oi, 3, , t, a, 1
+ , D (O), S (N), S (T), ,  , S (N), S (T)
+17, m, aa, 5, , d, i, ng, 1
+ , m, aa, 5, , l, i, n, 3
+ ,  ,  ,  , , S (O),  , S (C), S (T)
+18, j, a, n, 3, , d, ou, 6, , n, ei, 4, , s, ai, 1, , aa, 3
+ , *, i, n, 3, , d, o, 1, , n, ei, 4, , s, ai, 1, , aa, 3
+ , D (O), S (N),  ,  , ,  , S (N), S (T), ,  ,  ,  , ,  ,  ,  , ,  ,  
+19, b, o, 1, , l, o, 4
+ , p, o, 3, , l, o, 4
+ , S (O),  , S (T), ,  ,  ,  
+20, b, o, 1, , s, i, 6
+ , b, o, 1, , s, i, 1
+ ,  ,  ,  , ,  ,  , S (T)

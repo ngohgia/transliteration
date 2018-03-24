@@ -1,0 +1,4 @@
+ONSET b p m f d t n l g k ng h gw kw w z c s j
+NUCLEUS a aa aai aau ai au e ei eoi eu i iu o oi ou u ui oe oei eo yu
+CODA  k m n ng r p t
+TONE  1 2 3 4 5 6

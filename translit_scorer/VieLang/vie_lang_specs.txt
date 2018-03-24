@@ -1,0 +1,4 @@
+ONSET p b_< f v j m w t k t_h d_< s z n N l ts\ ts` s s` r\ c J\ J k x G h
+NUCLEUS a: a @ E e i O @: o u 1 i a:I a:U aU @U aI @I EU eU i@ iU Oa: Oa OE OI oI @:I u@ 1@ ue uI 1I u@: 1U ui: i@U oaI oaI: u@I uI@ 1@I 1@U i@U
+CODA  p b_< f v j m w t k t_h d_< s z n N l ts\ ts` s s` r\ c J\ J k x G h
+TONE  _1 _2 _3 _4 _5 _6
